@@ -1,4 +1,4 @@
-mport numpy as np
+import numpy as np
 
 import becca.brain as becca_brain
 from becca.base_world import World as BaseWorld
